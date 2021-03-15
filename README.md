@@ -18,4 +18,4 @@ The goal of this effort is to establish an open format data feed specification t
 * Check out the working api at [mtlfs.vta.org](https://mtlfs.vta.org)
 * Server implementation code at [VTA Express Lanes API](https://github.com/vta/expresslanes-api)
 
-Please share with us your comments and feedback!  If you want to reach us please email <Marshall.Ballard@vta.org>.
+Please share with us your comments and feedback!  If you want to reach us please email <Marshall.Ballard@gmail.com>.
